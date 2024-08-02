@@ -1,6 +1,7 @@
 # Netflix Case Study
 
-Gist of the Project
+#Gist of the Project
+
 1.This case study delves into a dataset from Netflix, the streaming giant, to guide strategic decision-making for content production and identify business growth opportunities across various countries. 
 
 2.The goal is to provide actionable insights by examining the popularity of movies and TV shows available on Netflix. 
