@@ -2,8 +2,8 @@
 
 ## Business Problem
 
-Help Netflix in deciding which type of shows/movies to produce
-How to grow the business in different countries
+- Help Netflix in deciding which type of shows/movies to produce
+- How to grow the business in different countries
 The dataset provided to you consists of a list of all the TV shows/movies available on Netflix
 
 ## Data 
