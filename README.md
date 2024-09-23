@@ -1,11 +1,43 @@
 # Netflix Case Study
 
-#Gist of the Project
+## Business Problem
 
-1.This case study delves into a dataset from Netflix, the streaming giant, to guide strategic decision-making for content production and identify business growth opportunities across various countries. 
+Help Netflix in deciding which type of shows/movies to produce
+How to grow the business in different countries
+The dataset provided to you consists of a list of all the TV shows/movies available on Netflix
 
-2.The goal is to provide actionable insights by examining the popularity of movies and TV shows available on Netflix. 
+## Data 
 
-3.The project includes data exploration, cleaning, and transformation, followed by an in-depth univariate and bivariate analysis. 
+Show_id: Unique ID for every Movie / Tv Show
+Type: Identifier - A Movie or TV Show
+Title: Title of the Movie / Tv Show
+Director: Director of the Movie
+Cast: Actors involved in the movie/show
+Country: Country where the movie/show was produced
+Date_added: Date it was added on Netflix
+Release_year: Actual Release year of the movie/show
+Rating: TV Rating of the movie/show
+Duration: Total Duration - in minutes or number of seasons
+Listed_in: Genre
+Description: The summary description
 
-4.The insights gained from this analysis will influence Netflix's content strategy and marketing efforts, resulting in better-targeted customer experiences and improved market penetration.
+## Metric 
+
+Since there is not data about views count, user star rating we are going to use the count of content added to Netflix as the metric.
+We will also use the count of cast, director, rating as measure of popularity
+
+
+## Recommendations 
+
+Netflix is very popular in US with over 37% of content belonging to it. Because of this, it is important to focus on other countries having lesser content.
+By analyzing Netflix data, we have come up with following recommendations:
+
+Content should be released on platform during the month of July, December and January.
+Content should not be released during the month of February.
+More movies should be produced/added to Netflix as movies are more popular than TV shows.
+Netflix should added more content in International movies, Dramas and Comedies genres.
+Movie timings should be around 120 minutes.
+TV shows should contain 1 season as these are more popular than shows having multiple season.
+In Japan, South Korea and Taiwan, TV shows are more popular than movies. More TV shows should be produced in these countries.
+Movies should be added to Netflix within 1 year of release date.
+Netflix should add more of classic tv shows to their platform for catering to older audiences.
